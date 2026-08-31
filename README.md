@@ -72,9 +72,6 @@
 <a href="https://www.w3.org/Style/CSS/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
 </a>
-<a href="https://www.php.net/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
-</a>
 </p>
 
 **APIs:** REST API • JSON • HTTP • API Integration • WebView
